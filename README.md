@@ -40,7 +40,7 @@
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sallyaz&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sallyaz&show_icons=true&theme=transparent)
 
 :zap: Recent GitHub Activity
   
