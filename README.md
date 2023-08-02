@@ -39,7 +39,7 @@
 
 ---
 
-  <img align="left" alt="Sallyaz GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sallyaz&show_icons=true&hide_border=true" />
+
 
 
 :zap: Recent GitHub Activity
